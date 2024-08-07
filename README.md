@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**javif89/javif89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Javier. Love walruses, code, and music production.
 
-Here are some ideas to get you started:
+Coding since 2014
+Professionally since 2018
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recently decided to get more involved in the open source community. Started daily driving linux and got inspired by the philosophy of free and open source.
+
+### Quick tech overview
+
+I'm a web developer full time. The tools I use and **love** are:
+
+**Languages and Frameworks**
+- [Laravel](https://laravel.com/)
+- [Livewire](https://livewire.laravel.com)
+- [FilamentPHP](https://filamentphp.com/)
+- [Go](https://go.dev)
+
+**Tools**
+- [VSCode](https://code.visualstudio.com/)
+- [Helix](https://helix-editor.com/)
+- [Kitty](https://sw.kovidgoyal.net/kitty/)
