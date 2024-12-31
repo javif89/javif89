@@ -22,5 +22,5 @@ I'm a web developer full time. The tools I use and **love** are:
 
 **Tools**
 - [VSCode](https://code.visualstudio.com/)
-- [Helix](https://helix-editor.com/)
+- [Neovim](https://neovim.io/)
 - [Kitty](https://sw.kovidgoyal.net/kitty/)
