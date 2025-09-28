@@ -8,7 +8,15 @@ Professionally since 2018
 
 Recently decided to get more involved in the open source community. Started daily driving linux and got inspired by the philosophy of free and open source.
 
-**Ignore the pinned repos**: I haven't made anything public in years so it's not a good representation of me 😃
+## Projects
+
+I work mostly on a [self hosted gitea instance](https://gitgud.foo) between me and some friends.
+
+Highlighted projects are:
+
+- [Waycast](https://gitgud.foo/thegrind/waycast)
+- [AuthentiKate](https://gitgud.foo/thegrind/authentikate)
+- [freedesktop](https://github.com/javif89/freedesktop)
 
 ### Quick tech overview
 
@@ -19,8 +27,10 @@ I'm a web developer full time. The tools I use and **love** are:
 - [Livewire](https://livewire.laravel.com)
 - [FilamentPHP](https://filamentphp.com/)
 - [Go](https://go.dev)
+- [Rust](https://rust-lang.org)
 
 **Tools**
 - [VSCode](https://code.visualstudio.com/)
 - [Neovim](https://neovim.io/)
 - [Kitty](https://sw.kovidgoyal.net/kitty/)
+- [NixOS](https://nixos.org/)
