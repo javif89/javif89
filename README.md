@@ -8,16 +8,6 @@ Professionally since 2018
 
 Recently decided to get more involved in the open source community. Started daily driving linux and got inspired by the philosophy of free and open source.
 
-## Projects
-
-I work mostly on a [self hosted gitea instance](https://gitgud.foo) between me and some friends.
-
-Highlighted projects are:
-
-- [Waycast](https://gitgud.foo/thegrind/waycast)
-- [AuthentiKate](https://gitgud.foo/thegrind/authentikate)
-- [freedesktop](https://github.com/javif89/freedesktop)
-
 ### Quick tech overview
 
 I'm a web developer full time. The tools I use and **love** are:
