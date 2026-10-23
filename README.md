@@ -16,6 +16,7 @@ I'm a web developer full time. The tools I use and **love** are:
 - [Laravel](https://laravel.com/)
 - [Livewire](https://livewire.laravel.com)
 - [FilamentPHP](https://filamentphp.com/)
+- [Python](https://www.python.org/)
 - [Go](https://go.dev)
 - [Rust](https://rust-lang.org)
 
